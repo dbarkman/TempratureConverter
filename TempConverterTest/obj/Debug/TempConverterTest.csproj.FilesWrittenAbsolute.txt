@@ -1,0 +1,11 @@
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/TempConverterTest.dll.mdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/TempConverterTest.pdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/TempConverterTest.dll
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/obj/Debug/TempConverterTest.dll
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/obj/Debug/TempConverterTest.dll.mdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/obj/Debug/TempConverterTest.pdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/TempratureConverter.exe
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/TempratureConverter.exe.mdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempConverterTest/bin/Debug/TempratureConverter.pdb

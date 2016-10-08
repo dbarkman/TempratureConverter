@@ -1,0 +1,9 @@
+Y:\Development\C#\BGPwC#\TempratureConverter\TempratureConverter\bin\Debug\TempratureConverter.exe.config
+Y:\Development\C#\BGPwC#\TempratureConverter\TempratureConverter\bin\Debug\TempratureConverter.exe
+Y:\Development\C#\BGPwC#\TempratureConverter\TempratureConverter\bin\Debug\TempratureConverter.pdb
+Y:\Development\C#\BGPwC#\TempratureConverter\TempratureConverter\obj\Debug\TempratureConverter.csprojResolveAssemblyReference.cache
+Y:\Development\C#\BGPwC#\TempratureConverter\TempratureConverter\obj\Debug\TempratureConverter.exe
+Y:\Development\C#\BGPwC#\TempratureConverter\TempratureConverter\obj\Debug\TempratureConverter.pdb
+X:\Development\C#\dbarkman_sandbox\BGPwC#\TempratureConverter\TempratureConverter\bin\Debug\TempratureConverter.exe.config
+X:\Development\C#\dbarkman_sandbox\BGPwC#\TempratureConverter\TempratureConverter\obj\Debug\TempratureConverter.exe
+X:\Development\C#\dbarkman_sandbox\BGPwC#\TempratureConverter\TempratureConverter\obj\Debug\TempratureConverter.pdb

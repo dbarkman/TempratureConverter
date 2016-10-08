@@ -1,0 +1,8 @@
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\bin\Debug\TempConverterTest.dll
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\bin\Debug\TempConverterTest.pdb
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\bin\Debug\TempratureConverter.exe
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\bin\Debug\TempratureConverter.pdb
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\obj\Debug\TempConverterTest.csprojResolveAssemblyReference.cache
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\obj\Debug\TempConverterTest.dll
+Y:\Development\C#\BGPwC#\TempratureConverter\TempConverterTest\obj\Debug\TempConverterTest.pdb

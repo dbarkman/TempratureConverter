@@ -1,0 +1,8 @@
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/bin/Debug/TempratureConverter.exe.config
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/bin/Debug/TempratureConverter.exe.mdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/bin/Debug/TempratureConverter.pdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/bin/Debug/TempratureConverter.exe
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/obj/Debug/TempratureConverter.exe
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/obj/Debug/TempratureConverter.exe.mdb
+/Users/dbarkman/Dropbox/Development/C#/BGPwC#/TempratureConverter/TempratureConverter/obj/Debug/TempratureConverter.pdb
